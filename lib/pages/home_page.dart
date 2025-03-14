@@ -29,7 +29,7 @@ class _HomePageState extends State<HomePage> {
                   TextSpan(
                     text: "Blog", 
                     style: TextStyle(
-                      fontSize: 26,
+                      fontSize: 25,
                       fontWeight: FontWeight.w700,
                       color: Colors.blueAccent,
                     ),
