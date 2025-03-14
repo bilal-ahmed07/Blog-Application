@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "62780468067",
+    "project_id": "blog-app-caf0d",
+    "storage_bucket": "blog-app-caf0d.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:62780468067:android:9d0b0dbbd5c4fb22f8c156",
+        "android_client_info": {
+          "package_name": "com.example.blog_app_flutter"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDMYufusKXNDCEuuJpnoJ_Dk6sd2H7j_Hk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
